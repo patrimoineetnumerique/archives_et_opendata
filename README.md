@@ -2,7 +2,7 @@
 
 Ressources autour des archives et de l'open data
 
-## dataset_archives_datagouv_20230105.csv
+## [dataset_archives_datagouv_20230105.csv](https://github.com/patrimoineetnumerique/archives_et_opendata/blob/main/dataset_archives_datagouv_20230105.csv)
 Jeux de données "archives" sur data.gouv.fr avec réindexation (MAJ : 5 janvier 2023).
 
 Identification de 269 dataset "archives" (ou quelques données patrimoniales et historiques proches, issus de services "patrimoine" ou administratifs). 223 datasets sont actifs (statut = "publié"). 
